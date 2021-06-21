@@ -1,10 +1,17 @@
-<p style="text-align: center;"><img alt="ESLint logo" src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" width="60" /></p>
+<p align="center"><img alt="ESLint logo" src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" width="60" /></p>
 
-# <p style="text-align: center;">eslint-config-gbx</p>
-
-![NPM](https://img.shields.io/npm/l/eslint-config-gbx?style=flat-square)
-![npm](https://img.shields.io/npm/v/eslint-config-gbx?style=flat-square)
-![npm](https://img.shields.io/npm/dw/eslint-config-gbx?style=flat-square)
+<h1 align="center">eslint-config-gbx</h1>
+<p align="center">   
+  <a href="https://github.com/grbull/eslint-config-gbx/blob/master/LICENSE">
+    <img src="https://img.shields.io/npm/l/eslint-config-gbx?style=flat-square" />
+  </a>
+  <a href="https://www.npmjs.com/package/eslint-config-gbx">
+    <img src="https://img.shields.io/npm/v/eslint-config-gbx?style=flat-square" />
+  </a>
+  <a href="https://www.npmjs.com/package/eslint-config-gbx">
+    <img src="https://img.shields.io/npm/dw/eslint-config-gbx?style=flat-square" />
+  </a>
+</p>
 
 ## 👋 Introduction
 
