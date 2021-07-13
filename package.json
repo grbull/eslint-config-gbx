@@ -2,7 +2,7 @@
   "name": "eslint-config-gbx",
   "version": "1.0.2",
   "description": "Very opinionated eslint configs for node and react.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "release": "standard-version",
     "prepare": "husky install"
@@ -44,5 +44,12 @@
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "prettier": "^2.3.0",
     "typescript": "^4.2.4"
+  },
+  "prettier": {
+    "endOfLine": "lf",
+    "semi": true,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "es5"
   }
 }
