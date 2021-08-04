@@ -99,6 +99,7 @@ module.exports = {
     'react/jsx-uses-react': 'warn',
     'react/jsx-uses-vars': 'warn',
     'react/jsx-wrap-multilines': 'warn',
+    'jsx-a11y/no-onchange': 'off',
   },
   settings: {
     react: {
