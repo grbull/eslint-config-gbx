@@ -2,7 +2,7 @@ module.exports = {
   extends: ['plugin:import/errors', 'plugin:import/warnings', 'prettier'],
   plugins: ['simple-import-sort', 'prettier', 'import'],
   rules: {
-    'max-len': ['error', { code: 120 }],
+    'max-len': ['error', { code: 120, ignoreStrings: true, ignoreComments: true }],
     'prettier/prettier': ['error'],
     quotes: ['error', 'single', { avoidEscape: true }],
     'sort-imports': 'off',
