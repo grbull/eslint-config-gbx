@@ -9,7 +9,10 @@ module.exports = {
     'react/default-props-match-prop-types': 'error',
     'react/destructuring-assignment': 'error',
     'react/display-name': 'error',
-    'react/function-component-definition': [2, { namedComponents: 'function-declaration' }],
+    'react/function-component-definition': [
+      'warn',
+      { namedComponents: 'arrow-function', unnamedComponents: 'arrow-function' },
+    ],
     'react/no-access-state-in-setstate': 'error',
     'react/no-adjacent-inline-elements': 'error',
     'react/no-array-index-key': 'error',
