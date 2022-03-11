@@ -59,6 +59,19 @@ npm install --save-dev @typescript-eslint/eslint-plugin @typescript-eslint/parse
 "extends": ["gbx", "gbx/react", "gbx/typescript"]
 ```
 
+### Prettier Config
+
+```json
+"prettier": {
+  "endOfLine": "lf",
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "printWidth": 120
+}
+```
+
 ## 📖 Changelog
 
 Wondering what we've shipped recently? Check out our [changelog](./CHANGELOG.md) for key highlights, performance improvements, new features, and notable bugfixes.

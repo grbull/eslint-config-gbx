@@ -1,10 +1,6 @@
 /* eslint-disable no-magic-numbers */
 module.exports = {
-  extends: [
-    'plugin:react/recommended',
-    'plugin:react-hooks/recommended',
-    'plugin:jsx-a11y/recommended',
-  ],
+  extends: ['plugin:react/recommended', 'plugin:react-hooks/recommended', 'plugin:jsx-a11y/recommended'],
   plugins: ['react', 'react-hooks', 'jsx-a11y', 'prettier'],
   rules: {
     'prettier/prettier': ['error'],
@@ -13,10 +9,7 @@ module.exports = {
     'react/default-props-match-prop-types': 'error',
     'react/destructuring-assignment': 'error',
     'react/display-name': 'error',
-    'react/function-component-definition': [
-      2,
-      { namedComponents: 'function-declaration' },
-    ],
+    'react/function-component-definition': [2, { namedComponents: 'function-declaration' }],
     'react/no-access-state-in-setstate': 'error',
     'react/no-adjacent-inline-elements': 'error',
     'react/no-array-index-key': 'error',
@@ -58,10 +51,7 @@ module.exports = {
     'react/jsx-child-element-spacing': 'warn',
     'react/jsx-closing-bracket-location': 'warn',
     'react/jsx-closing-tag-location': 'warn',
-    'react/jsx-curly-brace-presence': [
-      2,
-      { props: 'never', children: 'never' },
-    ],
+    'react/jsx-curly-brace-presence': [2, { props: 'never', children: 'never' }],
     'react/jsx-curly-newline': 'warn',
     'react/jsx-curly-spacing': 'warn',
     'react/jsx-equals-spacing': 'warn',

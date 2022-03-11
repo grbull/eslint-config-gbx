@@ -6,10 +6,7 @@ module.exports = {
     'prettier/prettier': ['error'],
     quotes: ['error', 'single', { avoidEscape: true }],
     'sort-imports': 'off',
-    'simple-import-sort/imports': [
-      'error',
-      { groups: [['^\\u0000', '^@?\\w', '^', '^\\.']] },
-    ],
+    'simple-import-sort/imports': ['error', { groups: [['^\\u0000', '^@?\\w', '^', '^\\.']] }],
     'simple-import-sort/exports': 'error',
     'block-scoped-var': 'error',
     'class-methods-use-this': 'off',
