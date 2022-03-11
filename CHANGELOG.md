@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/grbull/eslint-config-gbx/compare/v1.0.5...v1.1.0) (2022-03-11)
+
+
+### Features
+
+* disable @typescript-eslint/explicit-function-return-type ([25a3524](https://github.com/grbull/eslint-config-gbx/commit/25a352478d53528003d9ce067e319ca0edc75f76))
+* disable no-use-before define ([0c8e90f](https://github.com/grbull/eslint-config-gbx/commit/0c8e90f56ec38aad58fab862d958ff828c236fc1))
+* disable require-default-props ([81e6131](https://github.com/grbull/eslint-config-gbx/commit/81e6131d7248868c9be44ef4a2ff41bede1e8040))
+* increase line length ([d5fd66b](https://github.com/grbull/eslint-config-gbx/commit/d5fd66b83ae186226ace42dc90d55bc3199c47c3))
+* increase line length for prettier and add to README ([011aabd](https://github.com/grbull/eslint-config-gbx/commit/011aabd6d0d7efe87141df6d273bb8bbebfdfd39))
+
+
+### Bug Fixes
+
+* compatible with newer versions of typescript ([0a02be5](https://github.com/grbull/eslint-config-gbx/commit/0a02be561c61ec2a2a9776f9fff7130d544246e2))
+* react/jsx-no-bind is now warn ([e953071](https://github.com/grbull/eslint-config-gbx/commit/e9530711b1def828f38ae710cb6dc62e3a29b055))
+* remove new lines from imports ([904458d](https://github.com/grbull/eslint-config-gbx/commit/904458d25334a9d76761c6861daa642a066a47ea))
+
 ### [1.0.5](https://github.com/grbull/eslint-config-gbx/compare/v1.0.4...v1.0.5) (2021-08-04)
 
 
