@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/grbull/eslint-config-gbx/compare/v1.1.0...v1.2.0) (2022-03-11)
+
+
+### Features
+
+* prefer arrow functions for react components ([a1c155b](https://github.com/grbull/eslint-config-gbx/commit/a1c155b543d0614cfb11ed066e2fb12da1a2869a))
+
+
+### Bug Fixes
+
+* prettier line endings set to auto ([ab41175](https://github.com/grbull/eslint-config-gbx/commit/ab41175734fba02900450eb7f975dd860c1626fe))
+
 ## [1.1.0](https://github.com/grbull/eslint-config-gbx/compare/v1.0.5...v1.1.0) (2022-03-11)
 
 
