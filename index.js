@@ -34,7 +34,7 @@ module.exports = {
     'require-unicode-regexp': 'off',
     yoda: 'error',
     'init-declarations': ['error', 'always'],
-    'no-use-before-define': 'error',
+    'no-use-before-define': 'off',
     'array-bracket-spacing': ['error', 'never'],
     'import/no-default-export': 'warn',
   },
