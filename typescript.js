@@ -8,7 +8,7 @@ module.exports = {
   rules: {
     'no-use-before-define': 'off',
     '@typescript-eslint/no-use-before-define': 'off',
-    '@typescript-eslint/explicit-function-return-type': 'error',
+    '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/array-type': 'error',
     'no-restricted-syntax': [
       'off',
