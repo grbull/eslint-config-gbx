@@ -46,7 +46,7 @@
     "typescript": ">=4.2.4"
   },
   "prettier": {
-    "endOfLine": "lf",
+    "endOfLine": "auto",
     "semi": true,
     "singleQuote": true,
     "tabWidth": 2,

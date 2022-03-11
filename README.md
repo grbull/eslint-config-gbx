@@ -63,7 +63,7 @@ npm install --save-dev @typescript-eslint/eslint-plugin @typescript-eslint/parse
 
 ```json
 "prettier": {
-  "endOfLine": "lf",
+  "endOfLine": "auto",
   "semi": true,
   "singleQuote": true,
   "tabWidth": 2,
