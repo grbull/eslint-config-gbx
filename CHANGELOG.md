@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/grbull/eslint-config-gbx/compare/v1.2.1...v1.3.0) (2022-06-02)
+
+
+### Features
+
+* disabled the react/jsx-no-bind rule ([01b08b0](https://github.com/grbull/eslint-config-gbx/commit/01b08b0da04e4db1b2f4097575c24f4a4e03942b))
+* disabled the react/react-in-jsx-scope rule ([f245768](https://github.com/grbull/eslint-config-gbx/commit/f2457684a060dc227e22de023272e48a413a3fb6))
+
 ### [1.2.1](https://github.com/grbull/eslint-config-gbx/compare/v1.2.0...v1.2.1) (2022-03-11)
 
 
