@@ -67,7 +67,7 @@ module.exports = {
     'react/jsx-key': 'error',
     // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-max-props-per-line.md
     'react/jsx-max-props-per-line': [2, { when: 'multiline' }],
-    'react/jsx-no-bind': 'warn',
+    'react/jsx-no-bind': 'off',
     'react/jsx-no-comment-textnodes': 'warn',
     'react/jsx-no-duplicate-props': 'error',
     'react/jsx-no-script-url': 'error',
