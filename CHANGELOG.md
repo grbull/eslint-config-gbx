@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/grbull/eslint-config-gbx/compare/v1.3.0...v2.0.0) (2022-12-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* 
+
+### Features
+
+* enable prettier to use the single attribute option ([c84a3cf](https://github.com/grbull/eslint-config-gbx/commit/c84a3cff25fbb5e075fb1b41e36c624d5db81408))
+
 ## [1.3.0](https://github.com/grbull/eslint-config-gbx/compare/v1.2.1...v1.3.0) (2022-06-02)
 
 
