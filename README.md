@@ -68,7 +68,8 @@ npm install --save-dev @typescript-eslint/eslint-plugin @typescript-eslint/parse
   "singleQuote": true,
   "tabWidth": 2,
   "trailingComma": "es5",
-  "printWidth": 120
+  "printWidth": 120,
+  "singleAttributePerLine": true
 }
 ```
 

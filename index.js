@@ -3,7 +3,7 @@ module.exports = {
   plugins: ['simple-import-sort', 'prettier', 'import'],
   rules: {
     'max-len': ['error', { code: 120, ignoreStrings: true, ignoreComments: true }],
-    'prettier/prettier': ['error'],
+    'prettier/prettier': ['error', { singleAttributePerLine: true }],
     quotes: ['error', 'single', { avoidEscape: true }],
     'sort-imports': 'off',
     'simple-import-sort/imports': ['error', { groups: [['^\\u0000', '^@?\\w', '^', '^\\.']] }],
