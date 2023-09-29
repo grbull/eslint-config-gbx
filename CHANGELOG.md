@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.1](https://github.com/grbull/eslint-config-gbx/compare/v3.0.0...v3.0.1) (2023-09-29)
+
+
+### Bug Fixes
+
+* broken peer dependency version ([140ebe5](https://github.com/grbull/eslint-config-gbx/commit/140ebe551ebb6e6df67a2bcc2b211f09a0e87ce9))
+
 ## [3.0.0](https://github.com/grbull/eslint-config-gbx/compare/v2.0.0...v3.0.0) (2023-09-29)
 
 
