@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/grbull/eslint-config-gbx/compare/v2.0.0...v3.0.0) (2023-09-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** will no longer support some scenarios
+
+* **deps:** update all dependencies and replace npm with pnpm ([f8817f4](https://github.com/grbull/eslint-config-gbx/commit/f8817f403c8c2f19d530fee8c8a566fa13b191f2))
+
 ## [2.0.0](https://github.com/grbull/eslint-config-gbx/compare/v1.3.0...v2.0.0) (2022-12-16)
 
 
