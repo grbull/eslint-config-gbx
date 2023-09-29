@@ -2,11 +2,17 @@ module.exports = {
   extends: ['plugin:import/errors', 'plugin:import/warnings', 'prettier'],
   plugins: ['simple-import-sort', 'prettier', 'import'],
   rules: {
-    'max-len': ['error', { code: 120, ignoreStrings: true, ignoreComments: true }],
+    'max-len': [
+      'error',
+      { code: 120, ignoreStrings: true, ignoreComments: true },
+    ],
     'prettier/prettier': ['error', { singleAttributePerLine: true }],
     quotes: ['error', 'single', { avoidEscape: true }],
     'sort-imports': 'off',
-    'simple-import-sort/imports': ['error', { groups: [['^\\u0000', '^@?\\w', '^', '^\\.']] }],
+    'simple-import-sort/imports': [
+      'error',
+      { groups: [['^\\u0000', '^@?\\w', '^', '^\\.']] },
+    ],
     'simple-import-sort/exports': 'error',
     'block-scoped-var': 'error',
     'class-methods-use-this': 'off',

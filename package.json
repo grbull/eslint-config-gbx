@@ -2,7 +2,7 @@
   "name": "eslint-config-gbx",
   "version": "2.0.0",
   "description": "Very opinionated eslint configs for node and react.",
-  "main": "index.js",
+  "main": "index.cjs",
   "scripts": {
     "release": "standard-version",
     "prepare": "husky install"
