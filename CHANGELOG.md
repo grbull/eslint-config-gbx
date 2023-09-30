@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.3](https://github.com/grbull/eslint-config-gbx/compare/v3.0.2...v3.0.3) (2023-09-30)
+
+
+### Bug Fixes
+
+* restore deleted files ([0185f6b](https://github.com/grbull/eslint-config-gbx/commit/0185f6bc7b7ce2921855acf131f9b87534c8b72f))
+
 ### [3.0.2](https://github.com/grbull/eslint-config-gbx/compare/v3.0.1...v3.0.2) (2023-09-30)
 
 
