@@ -1,3 +1,5 @@
 .husky/
-commitlint.config.js
-.eslintrc.js
+commitlint.config.cjs
+.eslintrc.cjs
+.prettier.cjs
+.github/dependabot.yml
