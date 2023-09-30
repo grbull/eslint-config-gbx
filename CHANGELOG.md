@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.2](https://github.com/grbull/eslint-config-gbx/compare/v3.0.1...v3.0.2) (2023-09-30)
+
+
+### Bug Fixes
+
+* eslint not liking cjs files ([4bd05e9](https://github.com/grbull/eslint-config-gbx/commit/4bd05e9564174529183a156589b17b140022e736))
+
 ### [3.0.1](https://github.com/grbull/eslint-config-gbx/compare/v3.0.0...v3.0.1) (2023-09-29)
 
 
