@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.4](https://github.com/grbull/eslint-config-gbx/compare/v3.0.3...v3.0.4) (2023-09-30)
+
+
+### Bug Fixes
+
+* revert back to .js extension because I've no idea what I'm doing ([ff9fbf7](https://github.com/grbull/eslint-config-gbx/commit/ff9fbf76320893660eebe3f58b18ee8146683b97))
+
 ### [3.0.3](https://github.com/grbull/eslint-config-gbx/compare/v3.0.2...v3.0.3) (2023-09-30)
 
 
