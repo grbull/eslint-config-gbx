@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-gbx",
-  "version": "3.0.4",
+  "version": "4.0.0",
   "description": "Very opinionated eslint configs for node and react.",
   "main": "index.js",
   "scripts": {

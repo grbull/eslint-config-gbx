@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/grbull/eslint-config-gbx/compare/v3.0.4...v4.0.0) (2024-03-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* update dependencies to latest versions
+
+### Features
+
+* update rules ([1f02180](https://github.com/grbull/eslint-config-gbx/commit/1f02180e77c33ecfe0c76628d71fd48e192b49b9))
+
+
+### Bug Fixes
+
+* rule name ([ace388c](https://github.com/grbull/eslint-config-gbx/commit/ace388cefa173809ec5ae0e41bb8bf081d433696)), closes [#42](https://github.com/grbull/eslint-config-gbx/issues/42)
+
+
+* update dependencies to latest versions ([59c0979](https://github.com/grbull/eslint-config-gbx/commit/59c0979e9a84e5242d7aa3cc6b2133971c75363c))
+
 ### [3.0.4](https://github.com/grbull/eslint-config-gbx/compare/v3.0.3...v3.0.4) (2023-09-30)
 
 
