@@ -16,7 +16,7 @@ module.exports = {
     'react/function-component-definition': [
       'warn',
       {
-        namedComponents: 'arrow-function',
+        namedComponents: 'function-declaration',
         unnamedComponents: 'arrow-function',
       },
     ],
@@ -88,7 +88,7 @@ module.exports = {
     'react/jsx-one-expression-per-line': [0, { allow: 'single-child' }],
     'react/jsx-pascal-case': 'error',
     'react/jsx-props-no-multi-spaces': 'warn',
-    'react/jsx-props-no-spreading': 'error',
+    'react/jsx-props-no-spreading': 'off',
     'react/jsx-sort-default-props': 'warn',
     'react/jsx-sort-props': 'warn',
     'react/jsx-tag-spacing': [
@@ -104,6 +104,7 @@ module.exports = {
     'react/jsx-uses-vars': 'warn',
     'react/jsx-wrap-multilines': 'warn',
     'jsx-a11y/no-onchange': 'off',
+    'import/no-unresolved': [0],
   },
   settings: {
     react: {
