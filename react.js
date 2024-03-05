@@ -89,7 +89,7 @@ module.exports = {
     'react/jsx-pascal-case': 'error',
     'react/jsx-props-no-multi-spaces': 'warn',
     'react/jsx-props-no-spreading': 'off',
-    'react/jsx-sort-default-props': 'warn',
+    'react/sort-default-props': 'warn',
     'react/jsx-sort-props': 'warn',
     'react/jsx-tag-spacing': [
       2,
