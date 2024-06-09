@@ -74,7 +74,7 @@ module.exports = {
     'react/jsx-handler-names': 'warn',
     'react/jsx-indent': [2, 2, { indentLogicalExpressions: true }],
     'react/jsx-indent-props': [2, 2],
-    'react/jsx-key': 'error',
+    'react/jsx-key': ['error', { checkFragmentShorthand: true }],
     // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-max-props-per-line.md
     'react/jsx-first-prop-new-line': [1, 'multiline'],
     'react/jsx-max-props-per-line': [1, { maximum: 1 }],
