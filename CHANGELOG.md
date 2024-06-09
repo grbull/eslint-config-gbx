@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.0.1](https://github.com/grbull/eslint-config-gbx/compare/v4.0.0...v4.0.1) (2024-06-09)
+
+
+### Bug Fixes
+
+* update react/jsx-key rule to enforce keys for fragments ([3a1b4ae](https://github.com/grbull/eslint-config-gbx/commit/3a1b4ae700a51e6b53bc2f51e4e31c87bfc8c095))
+
 ## [4.0.0](https://github.com/grbull/eslint-config-gbx/compare/v3.0.4...v4.0.0) (2024-03-05)
 
 
