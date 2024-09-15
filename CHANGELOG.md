@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.0.2](https://github.com/grbull/eslint-config-gbx/compare/v4.0.1...v4.0.2) (2024-09-15)
+
+
+### Bug Fixes
+
+* restore previously deleted typescript rules ([b9ea327](https://github.com/grbull/eslint-config-gbx/commit/b9ea32742e8bf117fdba30a4dee8ad9773553bb2))
+
 ### [4.0.1](https://github.com/grbull/eslint-config-gbx/compare/v4.0.0...v4.0.1) (2024-06-09)
 
 
